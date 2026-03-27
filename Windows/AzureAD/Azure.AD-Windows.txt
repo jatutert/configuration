@@ -1,0 +1,3 @@
+https://answers.microsoft.com/en-us/msoffice/forum/all/company-portal-sync-failing/c3928cb2-f172-4151-acad-2684c2917466
+
+dsregcmd /leave 

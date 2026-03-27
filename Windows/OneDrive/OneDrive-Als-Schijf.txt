@@ -1,0 +1,47 @@
+https://answers.microsoft.com/nl-nl/windows/forum/all/is-het-mogelijk-om-van-onedrive-een-netwerk-drive/a441d944-28e6-41f6-8845-a06585a79901
+
+Dit kan worden gedaan door de volgende stappen te volgen :
+
+1. Ga naar [onedrive.live.com](https://onedrive.live.com/) en navigeer naar de hoofdmap van je OneDrive waar je al je bestanden en mappen kunt zien.
+2. Kijk nu zorgvuldig naar de URL van de pagina en kopieer het nummer dat volgt op de CID-tag. 
+Dit CID-nummer is nuttig bij het instellen van ons netwerkstation.
+
+3. Klik met de rechtermuisknop op het pictogram 'Deze pc' op het bureaublad en selecteer 'Netwerkstation koppelen'.
+4. Kies de stationsletter die je wilt hebben, bijvoorbeeld Y.
+
+5. In het veld Map voer je [https://d.docs.live.net/]
+
+(https://d.docs.live.net/) in, gevolgd door het nummer dat je hebt gekopieerd in stap 2.
+
+6. Controleer 'Verbinding maken met andere referenties' en klik vervolgens op de knop 'Voltooien'.
+
+7. Wacht terwijl het programma probeert een verbinding tot stand te brengen. Voer je aanmeldingsgegevens in wanneer daarom wordt gevraagd.
+
+8. Open 'Deze pc' om dit nieuw gemaakte station onder 'Netwerklocaties' te zien. 
+
+Het station zou een complexe naam hebben die dezelfde CID - string bevat. 
+
+Je kunt deze naam eenvoudig wijzigen in iets eenvoudigers zoals 'Mijn OneDrive'. Je kunt dit station openen en ermee werken zoals je normaal zou doen met elk ander station.
+
+Dit is een handige manier om toegang te krijgen tot je OneDrive-bestanden zonder dat je ze lokaal hoeft op te slaan. 
+
+Ik hoop dat dit helpt!
+
+(1) How to map OneDrive as Network Drive in Windows 11/10 - The Windows Club. https://www.thewindowsclub.com/map-onedrive-network-drive-windows-10.
+
+(2) Is het mogelijk om van Onedrive een netwerk-drive te maken?. https://answers.microsoft.com/nl-nl/windows/forum/all/is-het-mogelijk-om-van-onedrive-een-netwerk-drive/a441d944-28e6-41f6-8845-a06585a79901.
+
+(3) How to map OneDrive to a drive letter in Windows 11. https://www.techrepublic.com/article/how-to-map-onedrive-to-a-drive-letter-in-windows-11/.
+
+(4) undefined. https://d.docs.live.net/.
+
+Groeten,
+
+Jacquito.
+
+
+
+CID Nummer
+9A3021C30429CE0B
+
+https://onedrive.live.com/?id=root&cid=9A3021C30429CE0B &qt=mru
